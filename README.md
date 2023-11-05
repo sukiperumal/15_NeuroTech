@@ -50,7 +50,7 @@ To get started with this project, you'll need to follow these installation steps
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git@github.com:sukiperumal/15_NeuroTech.git
    ```
 
 2. Install the required dependencies:

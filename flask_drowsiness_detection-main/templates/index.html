@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Drowsiness Detection</title>
+</head>
+<body>
+    <h1>Drowsiness Detection</h1>
+    <button id="drowsy-detect">Drowsy Detect</button>
+    <p id="result"></p>
+    <img id="drowsiness-image" src="" width="50%" style="display: none">
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#drowsy-detect').click(function () {
+                $.post('/run_drowsiness_detection', function (data) {
+                    // Update the 'result' paragraph with a message
+                    //$('#result').text('Drowsiness detection completed.');
+                    // Update the 'drowsiness-image' with the new image source
+                    $('#drowsiness-image').attr('src', data).show();
+                });
+            });
+        });
+    </script>
+</body>
+</html>

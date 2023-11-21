@@ -1,21 +1,5 @@
-Certainly, here's a README template for your GitHub repository:
-
----
 ## Game Of Narcos Theme : Health Tech
-# Neuro-Psychological Procedures and HealthTech in the Indian Criminal Justice System
-
-![Project Image](link_to_project_image.jpg)
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Problem Statement](#problem-statement)
-- [Proposed Solution](#proposed-solution)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+# Validating Neuro-Psychological Procedures and HealthTech in the Indian Criminal Justice System using Machine Learning
 
 ## Introduction
 
@@ -50,7 +34,7 @@ To get started with this project, you'll need to follow these installation steps
 1. Clone the repository:
 
    ```bash
-   git@github.com:sukiperumal/15_NeuroTech.git
+   git@github.com:sukiperumal/NeuroTech.git
    ```
 
 2. Install the required dependencies:
@@ -61,22 +45,6 @@ To get started with this project, you'll need to follow these installation steps
 
 3. Set up the database and configure the project according to the documentation.
 
-## Usage
-
-- **How to Run the ML Models:** Provide instructions on how to use the ML models and execute neuro-psychological procedures.
-
-- **Accessing the Distress Alert System:** Explain how to utilize the Advanced Distress Alert System and the Mental Health Evaluator.
-
-- **User Guide:** Include a user guide or documentation on how to navigate the project and its features.
-
-## Contributing
-
-We welcome contributions from the community to help improve this project. Please read our [contribution guidelines](CONTRIBUTING.md) for details on how to get involved.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE), which means you are free to use and modify the code, but you must provide appropriate attribution.
-
----
-
-Feel free to modify this template to suit your specific project needs. This README provides a clear overview of your project, its goals, and how to get started with it.

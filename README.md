@@ -1,5 +1,5 @@
-## Game Of Narcos Theme : Health Tech
-# Validating Neuro-Psychological Procedures and HealthTech in the Indian Criminal Justice System using Machine Learning
+## Game Of Narcos : Neuro Tech
+# Validating Neuro-Psychological Procedures and HealthTech in the Indian Criminal Justice System using Machine Learning under the Theme : HealthTech
 
 ## Introduction
 
